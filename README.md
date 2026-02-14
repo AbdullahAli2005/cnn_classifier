@@ -1,4 +1,4 @@
-# 🐶🐱 Cats vs Dogs Classification using CNN (TensorFlow & Keras)
+# Cats vs Dogs Classification using CNN (TensorFlow & Keras)
 
 ## 📌 Project Overview
 
@@ -104,10 +104,7 @@ The project generates performance graphs using Matplotlib.
 
 ### 🔹 Accuracy & Loss Curves
 
-```markdown
 ![Training Results](result_for_readme.jpg)
-```
-
 
 These graphs help analyze:
 
